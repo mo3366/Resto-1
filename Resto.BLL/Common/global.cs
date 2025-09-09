@@ -1,0 +1,10 @@
+﻿global using Resto.BLL.Service.Abstraction;
+global using Resto.BLL.Model_VM.Booking;
+global using System.ComponentModel.DataAnnotations;
+global using Resto.DAL.Repo.Abstraction;
+global using Resto.DAL.Repo.Impelementation;
+global using Microsoft.EntityFrameworkCore;
+global using Resto.DAL.Entities;
+global using Resto.DAL.DataBase;
+global using Resto.DAL.Repo.Abstraction;
+global using System.Linq.Expressions;

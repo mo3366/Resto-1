@@ -1,0 +1,14 @@
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\Resto.DAL.csproj.AssemblyReference.cache
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\Resto.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\Resto.DAL.AssemblyInfoInputs.cache
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\Resto.DAL.AssemblyInfo.cs
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\Resto.DAL.csproj.CoreCompileInputs.cache
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\bin\Debug\net8.0\Resto.DAL.deps.json
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\bin\Debug\net8.0\Resto.DAL.runtimeconfig.json
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\bin\Debug\net8.0\Resto.DAL.dll
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\bin\Debug\net8.0\Resto.DAL.pdb
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\Resto.DAL.dll
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\refint\Resto.DAL.dll
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\Resto.DAL.pdb
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\Resto.DAL.genruntimeconfig.cache
+F:\c plus\iti new\مشروع\Resto\Resto.DAL\obj\Debug\net8.0\ref\Resto.DAL.dll

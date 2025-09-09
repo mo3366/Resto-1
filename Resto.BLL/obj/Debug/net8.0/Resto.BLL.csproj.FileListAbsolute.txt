@@ -1,0 +1,15 @@
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\Resto.BLL.csproj.AssemblyReference.cache
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\Resto.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\Resto.BLL.AssemblyInfoInputs.cache
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\Resto.BLL.AssemblyInfo.cs
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\Resto.BLL.csproj.CoreCompileInputs.cache
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\bin\Debug\net8.0\Resto.BLL.deps.json
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\bin\Debug\net8.0\Resto.BLL.dll
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\bin\Debug\net8.0\Resto.BLL.pdb
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\bin\Debug\net8.0\Resto.DAL.dll
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\bin\Debug\net8.0\Resto.DAL.pdb
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\Resto.BLL.csproj.Up2Date
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\Resto.BLL.dll
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\refint\Resto.BLL.dll
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\Resto.BLL.pdb
+F:\c plus\iti new\مشروع\Resto\Resto.BLL\obj\Debug\net8.0\ref\Resto.BLL.dll

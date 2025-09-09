@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.bll\\service\\impelementation\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|solutionrelative:resto.bll\\service\\impelementation\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto\\views\\booking\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|solutionrelative:resto\\views\\booking\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.dal\\database\\restocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|solutionrelative:resto.dal\\database\\restocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|solutionrelative:resto\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|solutionrelative:resto\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|solutionrelative:resto\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.bll\\model vm\\booking\\createbookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|solutionrelative:resto.bll\\model vm\\booking\\createbookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.bll\\model vm\\booking\\editbookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|solutionrelative:resto.bll\\model vm\\booking\\editbookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.dal\\repo\\abstraction\\itablerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|solutionrelative:resto.dal\\repo\\abstraction\\itablerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|solutionrelative:resto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Migrations\\20250907135935_CREATEALL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resto.DAL\\Migrations\\20250907135935_CREATEALL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.dal\\repo\\abstraction\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|solutionrelative:resto.dal\\repo\\abstraction\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.dal\\repo\\impelementation\\tablerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|solutionrelative:resto.dal\\repo\\impelementation\\tablerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.dal\\entities\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|solutionrelative:resto.dal\\entities\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.bll\\model vm\\booking\\getallbookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|solutionrelative:resto.bll\\model vm\\booking\\getallbookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto\\views\\table\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|solutionrelative:resto\\views\\table\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|solutionrelative:resto\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto\\views\\table\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|solutionrelative:resto\\views\\table\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto\\views\\table\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4159D2E5-8D4A-46B9-80B6-4CD19493A658}|Resto\\RestoPL.csproj|solutionrelative:resto\\views\\table\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.bll\\service\\abstraction\\itableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|solutionrelative:resto.bll\\service\\abstraction\\itableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.bll\\service\\abstraction\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|solutionrelative:resto.bll\\service\\abstraction\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.bll\\model vm\\table\\tablevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|solutionrelative:resto.bll\\model vm\\table\\tablevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.bll\\service\\impelementation\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FC12D-87D3-45F7-92C7-996F249C7EB3}|Resto.BLL\\Resto.BLL.csproj|solutionrelative:resto.bll\\service\\impelementation\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.dal\\repo\\impelementation\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|solutionrelative:resto.dal\\repo\\impelementation\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|f:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\resto\\resto.dal\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863C761-269B-405A-BECC-0E311A3C3133}|Resto.DAL\\Resto.DAL.csproj|solutionrelative:resto.dal\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Program.cs",
+              "RelativeDocumentMoniker": "Resto\\Program.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Program.cs",
+              "RelativeToolTip": "Resto\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:29:42.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "Resto\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "Resto\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T12:58:29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Service\\Impelementation\\BookingService.cs",
+              "RelativeDocumentMoniker": "Resto.BLL\\Service\\Impelementation\\BookingService.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Service\\Impelementation\\BookingService.cs",
+              "RelativeToolTip": "Resto.BLL\\Service\\Impelementation\\BookingService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:52:46.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITableRepo.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Repo\\Abstraction\\ITableRepo.cs",
+              "RelativeDocumentMoniker": "Resto.DAL\\Repo\\Abstraction\\ITableRepo.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Repo\\Abstraction\\ITableRepo.cs",
+              "RelativeToolTip": "Resto.DAL\\Repo\\Abstraction\\ITableRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:02:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestoContext.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\DataBase\\RestoContext.cs",
+              "RelativeDocumentMoniker": "Resto.DAL\\DataBase\\RestoContext.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\DataBase\\RestoContext.cs*",
+              "RelativeToolTip": "Resto.DAL\\DataBase\\RestoContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:57:12.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Booking\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Resto\\Views\\Booking\\GetAll.cshtml",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Booking\\GetAll.cshtml",
+              "RelativeToolTip": "Resto\\Views\\Booking\\GetAll.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T13:19:55.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Booking\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Resto\\Views\\Booking\\Edit.cshtml",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Booking\\Edit.cshtml",
+              "RelativeToolTip": "Resto\\Views\\Booking\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T13:18:01.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditBookingVM.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Model VM\\Booking\\EditBookingVM.cs",
+              "RelativeDocumentMoniker": "Resto.BLL\\Model VM\\Booking\\EditBookingVM.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Model VM\\Booking\\EditBookingVM.cs",
+              "RelativeToolTip": "Resto.BLL\\Model VM\\Booking\\EditBookingVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:56:01.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBookingVM.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Model VM\\Booking\\CreateBookingVM.cs",
+              "RelativeDocumentMoniker": "Resto.BLL\\Model VM\\Booking\\CreateBookingVM.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Model VM\\Booking\\CreateBookingVM.cs",
+              "RelativeToolTip": "Resto.BLL\\Model VM\\Booking\\CreateBookingVM.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:55:40.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Resto\\Controllers\\BookingController.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Resto\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:57:23.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250907135935_CREATEALL.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Migrations\\20250907135935_CREATEALL.cs",
+              "RelativeDocumentMoniker": "Resto.DAL\\Migrations\\20250907135935_CREATEALL.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Migrations\\20250907135935_CREATEALL.cs",
+              "RelativeToolTip": "Resto.DAL\\Migrations\\20250907135935_CREATEALL.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:59:35.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TableRepo.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Repo\\Impelementation\\TableRepo.cs",
+              "RelativeDocumentMoniker": "Resto.DAL\\Repo\\Impelementation\\TableRepo.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Repo\\Impelementation\\TableRepo.cs",
+              "RelativeToolTip": "Resto.DAL\\Repo\\Impelementation\\TableRepo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:03:44.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Table.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Entities\\Table.cs",
+              "RelativeDocumentMoniker": "Resto.DAL\\Entities\\Table.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Entities\\Table.cs",
+              "RelativeToolTip": "Resto.DAL\\Entities\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:43:28.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookingRepo.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Repo\\Abstraction\\IBookingRepo.cs",
+              "RelativeDocumentMoniker": "Resto.DAL\\Repo\\Abstraction\\IBookingRepo.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Repo\\Abstraction\\IBookingRepo.cs",
+              "RelativeToolTip": "Resto.DAL\\Repo\\Abstraction\\IBookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:50:30.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Table\\Create.cshtml",
+              "RelativeDocumentMoniker": "Resto\\Views\\Table\\Create.cshtml",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Table\\Create.cshtml",
+              "RelativeToolTip": "Resto\\Views\\Table\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T13:09:44.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "Resto\\Controllers\\TableController.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Controllers\\TableController.cs",
+              "RelativeToolTip": "Resto\\Controllers\\TableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:08:42.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Table\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Resto\\Views\\Table\\GetAll.cshtml",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Table\\GetAll.cshtml",
+              "RelativeToolTip": "Resto\\Views\\Table\\GetAll.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T13:10:28.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Table\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Resto\\Views\\Table\\Edit.cshtml",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto\\Views\\Table\\Edit.cshtml",
+              "RelativeToolTip": "Resto\\Views\\Table\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T13:10:12.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllBookingVM.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Model VM\\Booking\\GetAllBookingVM.cs",
+              "RelativeDocumentMoniker": "Resto.BLL\\Model VM\\Booking\\GetAllBookingVM.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Model VM\\Booking\\GetAllBookingVM.cs",
+              "RelativeToolTip": "Resto.BLL\\Model VM\\Booking\\GetAllBookingVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:56:16.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITableService.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Service\\Abstraction\\ITableService.cs",
+              "RelativeDocumentMoniker": "Resto.BLL\\Service\\Abstraction\\ITableService.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Service\\Abstraction\\ITableService.cs",
+              "RelativeToolTip": "Resto.BLL\\Service\\Abstraction\\ITableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:05:14.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TableVM.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Model VM\\Table\\TableVM.cs",
+              "RelativeDocumentMoniker": "Resto.BLL\\Model VM\\Table\\TableVM.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Model VM\\Table\\TableVM.cs",
+              "RelativeToolTip": "Resto.BLL\\Model VM\\Table\\TableVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:06:48.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TableService.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Service\\Impelementation\\TableService.cs",
+              "RelativeDocumentMoniker": "Resto.BLL\\Service\\Impelementation\\TableService.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Service\\Impelementation\\TableService.cs",
+              "RelativeToolTip": "Resto.BLL\\Service\\Impelementation\\TableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:06:08.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Service\\Abstraction\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Resto.BLL\\Service\\Abstraction\\IBookingService.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.BLL\\Service\\Abstraction\\IBookingService.cs",
+              "RelativeToolTip": "Resto.BLL\\Service\\Abstraction\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:52:21.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Repo\\Impelementation\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "Resto.DAL\\Repo\\Impelementation\\BookingRepo.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Repo\\Impelementation\\BookingRepo.cs",
+              "RelativeToolTip": "Resto.DAL\\Repo\\Impelementation\\BookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:50:33.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Resto.DAL\\Entities\\Booking.cs",
+              "ToolTip": "F:\\c plus\\iti new\\\u0645\u0634\u0631\u0648\u0639\\Resto\\Resto.DAL\\Entities\\Booking.cs",
+              "RelativeToolTip": "Resto.DAL\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:42:02.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

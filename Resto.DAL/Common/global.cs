@@ -1,0 +1,10 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using Microsoft.EntityFrameworkCore;
+global using Resto.DAL.Entities;
+global using Resto.DAL.DataBase;
+global using Resto.DAL.Repo.Abstraction;
+global using System.Linq.Expressions;
